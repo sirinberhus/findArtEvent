@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FindArtEvent</string>
+    <string name="hello">Merhaba, </string>
+    <string name="create_account">Bir Hesap Oluşturun</string>
+    <string name="welcome">Tekrar Hoşgeldin</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="hide_password">Hide password</string>
+    <string name="show_password">Show password</string>
+    <string name="condition_and_terms"> Devam ederek gizlilik politikamızı ve kullanım koşullarımızı kabul etmiş olursunuz</string>
+    <string name="condition_and_terms_header">Kullanım Koşulları</string>
+    <string name="register">Kayıt ol</string>
+    <string name="switch_to_login">Zaten hesabın var mı? Giriş yap</string>
+    <string name="welcome_back">Tekrar hoşgeldin</string>
+    <string name="login_button">Giriş yap</string>
+    <string name="forgot_passwprd">Şifrenizi mi unuttunuz?</string>
+    <string name="dont_have_accaount">Henüz hesabın yok mu? Kayıt ol</string>
+</resources>
